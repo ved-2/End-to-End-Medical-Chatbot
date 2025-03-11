@@ -1,0 +1,6 @@
+ctransformers
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
